@@ -1,0 +1,4 @@
+train: fanta/images/train
+val: fanta/images/val
+nc: 1
+name: ['son']

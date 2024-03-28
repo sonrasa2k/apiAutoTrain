@@ -1,0 +1,8 @@
+Collecting onnx
+  Using cached onnx-1.9.0-cp37-cp37m-win_amd64.whl (11.2 MB)
+Requirement already satisfied: numpy>=1.16.6 in c:\users\sonng\appdata\roaming\python\python37\site-packages (from onnx) (1.19.0)
+Requirement already satisfied: six in c:\users\sonng\anaconda3\envs\admin\lib\site-packages (from onnx) (1.16.0)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\users\sonng\anaconda3\envs\admin\lib\site-packages (from onnx) (3.7.4.3)
+Requirement already satisfied: protobuf in c:\users\sonng\anaconda3\envs\admin\lib\site-packages (from onnx) (3.17.3)
+Installing collected packages: onnx
+Successfully installed onnx-1.9.0

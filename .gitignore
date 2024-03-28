@@ -1,0 +1,12 @@
+*.jpg
+ai/
+.idea/
+public/
+config/
+data/
+pymp-*/
+redis-stable/
+run/
+runs/
+modeled/
+*.pt

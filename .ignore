@@ -1,0 +1,9 @@
+*.jpg
+ai/
+public/
+config/
+data/
+pymp-*/
+redis-stable/
+run/
+runs/
